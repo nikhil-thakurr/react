@@ -1,4 +1,4 @@
-# Shop With Zosh
+# Nikhil And Abhihek Ecommerce website
 
 ### website
 https://shopwithzosh.vercel.app/
